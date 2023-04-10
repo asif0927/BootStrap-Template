@@ -297,6 +297,13 @@
         width: 80%;
         margin: 0 auto;
     }
+    .logo a{
+        margin-left: auto!important;
+    }
+    .navbar{
+        margin-right: auto;
+        margin-left: auto;
+    }
     .start-btn{
         margin-right: auto;
     }
